@@ -1,4 +1,4 @@
-# follow these just 4 steps.
+# Follow these just 4 steps.
 ## 1. Fork this repository.
 ## 2. Add file.
 ## 3. commit.
